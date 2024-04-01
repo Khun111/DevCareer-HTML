@@ -7,13 +7,15 @@ _Three pages website_
 **Your page should have:**
 - Your name
 - A sentence about yourself
-- Your goal for this diploma course 
+- Your goal for this diploma course
+
 **Your page should use the following tags:**
-- <b>
-- <p>
-- <br>
-- <h1> … <h6>
+- b
+- p
+- br
+- h1 … h6
 - List
+
 ***Your page should not use the following tags:***
 - Table
 - Forms
